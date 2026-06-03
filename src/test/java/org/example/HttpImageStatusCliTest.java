@@ -32,7 +32,6 @@ class HttpImageStatusCliTest {
 
             assertEquals(expectedSize, size);
             assertEquals(expectedHash, hashHex);
-
         });
     }
 }
